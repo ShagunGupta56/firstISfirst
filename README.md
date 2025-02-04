@@ -1,4 +1,4 @@
 # firstISfirst
 This is my first Git repository
 <br>
-Author - Shagun gupta
+Author - Shagun (GuptaJi)
